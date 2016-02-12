@@ -16,7 +16,7 @@ Get Translator API account: https://datamarket.azure.com/dataset/bing/microsoftt
 Create `.env` file and put the following env vars inside:
 
 ```
-BOT_NAME=bot_name
+BOT_USERNAME=BOT_USERNAME
 BOT_TOKEN=bot_token
 CLIENT_ID=microsofttranslator_client_id
 CLIENT_SECRET=microsofttranslator_client_secret
